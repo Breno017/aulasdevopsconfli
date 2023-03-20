@@ -5,7 +5,7 @@ aula 3
 
 * Mercurial
 
-* GitHub
+* Gitlab
 
 * Subversion
 
